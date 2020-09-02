@@ -60,9 +60,10 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
    - Criterios de aceptación:
 	
 
-## Control de versiones 
+## Control de versiones y despliegue
 
 [Github](https://github.com/) para el versionamiento.
+[Heroku](http://localhost:8080/index.html) para el depliege.
 
 ## Authors
 
@@ -70,4 +71,4 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
 
 [Andres Sotelo](https://github.com/aosfandres)
 
-[Juan Romero]
+[Juan Romero](https://github.com/JuanRomero11)
