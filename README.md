@@ -63,7 +63,8 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
 ## Control de versiones y despliegue
 
 [Github](https://github.com/) para el versionamiento.
-[Heroku](http://localhost:8080/index.html) para el depliege.
+
+[Heroku](https://picante-demo.herokuapp.com/index.html) para el depliege.
 
 ## Authors
 
