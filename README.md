@@ -67,5 +67,7 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
 ## Authors
 
 [César González](https://github.com/csarssj) 
+
 [Andres Sotelo](https://github.com/aosfandres)
+
 [Juan Romero]
