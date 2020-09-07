@@ -10,9 +10,15 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
 
 
 ### Diagramas
-   - *Diagrama:*
+   - *Entidad Relación:*
+	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/entidadRelacion.png)
+	
+   - *Diagrama Clases:*
 	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/clases.png)
-		
+	
+    - *Componentes:*
+	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/Componentes.png)
+			
    - *Casos de uso:*
    
       - *Comprador*
@@ -20,7 +26,7 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
       	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/caso1.png)
 			
       - *Vendedor*
-	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/caso2.png)
+		![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/caso2.png)
 
 ## Historias de usuario
 1. *COMO* "Usuario/Vendedor"  *QUIERO* registrarme *PARA poder* ofrecer públicamente mis servicios mediante una plataforma web.
