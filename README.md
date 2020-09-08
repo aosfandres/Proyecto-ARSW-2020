@@ -1,11 +1,11 @@
 # Proyecto-ARSW-2020
 
-Go Offer el sitio perfecto para ofrecer tus servicios y subastarlos en tiempo real.
+Go Offer el sitio perfecto para ofrecer o adquirir  tus servicios  en tiempo real al alcance de tu mano.
 
 ## Descripcion
 
-Go Offer (Mientras puse este nombre) es una sencilla plataforma de subastas en tiempo real que permite ofertar por servicios en tiempo real,
-donde el usuario tiene la posibilidad además de participar en subastas en tiempo real, también puede poner en línea los servicios que él esta dispuesto a ofrecer para la venta.
+Go Offer (Mientras puse este nombre) es una sencilla plataforma de venta de servicos en tiempo real que permite ofertar por servicios en tiempo real,
+donde el usuario tiene la posibilidad además de negociar con el vendedor a tiempo real, también puede poner en línea los servicios que él esta dispuesto a ofrecer para la venta.
 Una herramienta útil de fácil acceso para facilitar los emprendimientos y suplir las necesidades de los usuarios a cualquier comento y al alcance de un solo click
 
 
