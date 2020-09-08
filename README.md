@@ -2,6 +2,9 @@
 
 Go Offer el sitio perfecto para ofrecer o adquirir  tus servicios  en tiempo real al alcance de tu mano.
 
+
+   ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/logo.PNG)
+
 ## Descripcion
 
 Go Offer es una sencilla plataforma de venta de servicos en tiempo real que permite ofertar por servicios en tiempo real,
