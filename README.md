@@ -29,11 +29,11 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
 		![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/caso2.png)
 
 ## Historias de usuario
-1. COMO usuario comprador
+ 1. COMO usuario comprador
  QUIERO registrarme
  PARA PODER contratar personas calificadas en un servicio en especifico que este buscando.
 
-2. COMO usuario comprador
+ 2. COMO usuario comprador
 QUIERO consultar los servicios en la pagina web 
 PARA PODER realizar un filtro propio de las personas que considere sean más adecuadas.
 
