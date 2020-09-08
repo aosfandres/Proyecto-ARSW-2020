@@ -4,7 +4,7 @@ Go Offer el sitio perfecto para ofrecer o adquirir  tus servicios  en tiempo rea
 
 ## Descripcion
 
-Go Offer (Mientras puse este nombre) es una sencilla plataforma de venta de servicos en tiempo real que permite ofertar por servicios en tiempo real,
+Go Offer es una sencilla plataforma de venta de servicos en tiempo real que permite ofertar por servicios en tiempo real,
 donde el usuario tiene la posibilidad además de negociar con el vendedor a tiempo real, también puede poner en línea los servicios que él esta dispuesto a ofrecer para la venta.
 Una herramienta útil de fácil acceso para facilitar los emprendimientos y suplir las necesidades de los usuarios a cualquier comento y al alcance de un solo click
 
