@@ -23,7 +23,7 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
    
       - *Comprador*
       
-      	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/caso1.png)
+      	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/casoguan.png)
 			
       - *Vendedor*
 		![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/caso2.png)
