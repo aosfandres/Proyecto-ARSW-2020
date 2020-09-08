@@ -79,12 +79,17 @@ PARA PODER responder a la solicitud y contactarme con los posibles compradores.
 
  
  ## Mockups
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/principal.png)
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/login.png)
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/mios.png)
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/registrar.png)
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/chat.png)
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/servicio.png)
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/principal.PNG)
+ 
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/login.PNG)
+ 
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/mios.PNG)
+ 
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/registrar.PNG)
+ 
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/chat.PNG)
+ 
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/servicio.PNG)
  
 	
 
