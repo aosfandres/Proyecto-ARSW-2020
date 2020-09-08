@@ -17,7 +17,7 @@ Una herramienta útil de fácil acceso para facilitar los emprendimientos y supl
 	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/entidadRelacion.png)
 	
    - *Diagrama Clases:*
-	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/clases.png)
+	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/clases2.png)
 	
    - *Componentes:*
 	![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/Componentes.png)
