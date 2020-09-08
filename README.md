@@ -86,13 +86,15 @@ PARA PODER responder a la solicitud y contactarme con los posibles compradores.
  
  ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/login.PNG)
  
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/registrar.PNG)
+
  ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/mios.PNG)
  
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/registrar.PNG)
- 
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/servicio.PNG)
+  
  ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/chat.PNG)
  
- ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/servicio.PNG)
+
  
 	
 
