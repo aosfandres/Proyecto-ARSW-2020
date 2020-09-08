@@ -78,6 +78,13 @@ QUIERO consultar los clientes que estén pidiendo u ofertando por adquirir mis s
 PARA PODER responder a la solicitud y contactarme con los posibles compradores.
 
  
+ ## Mockups
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/principal.png)
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/login.png)
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/mios.png)
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/registrar.png)
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/chat.png)
+ ![image](https://github.com/aosfandres/Proyecto-ARSW-2020/blob/master/resources/servicio.png)
  
 	
 
